@@ -1,7 +1,7 @@
 baseurl = "http://vietch2612.github.io/myvanhotel-3/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
-theme = "hugo-creative-theme"
+title = "My Van Hotel"
+theme = "creative"
 
 [params]
 
