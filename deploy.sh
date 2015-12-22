@@ -18,4 +18,3 @@ if [ $# -eq 1  ]
     # Push source and build repos.
     git push origin master
     git subtree push --prefix=public https://github.com/vietch2612/myvanhotel-3.git gh-pages
-"]]"
