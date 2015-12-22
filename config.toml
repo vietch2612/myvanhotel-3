@@ -41,7 +41,7 @@ theme = "creative"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Khách sạn Mỹ Văn"
-		subtitle   = "Một khách sạn với đầy đủ tiện nghi, nằm ở trung tâm thành phố vũng tàu với mức giá hợp lý, thái độ phục vụ tận tình chắc chắn sẽ đêm đến cho bạn những trải nghiệm tốt nhất"
+		subtitle   = "Một khách sạn với đầy đủ tiện nghi, nằm ở trung tâm thành phố Vũng Tàu với mức giá hợp lý, thái độ phục vụ tận tình chắc chắn sẽ đêm đến cho bạn những trải nghiệm tốt nhất"
    	buttonText = "Xem thêm"
 
 
@@ -49,7 +49,7 @@ theme = "creative"
 	[params.about]
 		headline    = "we've got what you need!"
 		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Xem cách dịch vụ"
+		buttonText  = "Đặt phòng"
 
 
 	# Service section
@@ -79,7 +79,6 @@ theme = "creative"
 
     # Portfolio modals
 	[params.portfolio.modal]
-		modelID = 1
         client = "Client"
         date = "Date"
         category = "Category"
