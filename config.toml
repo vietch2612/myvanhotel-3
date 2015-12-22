@@ -19,8 +19,8 @@ theme = "creative"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "My Van Hotel"
-	description = "Best cheap & good hote in Vung Tau"
+	name = "Khách sạn Mỹ Văn"
+	description = "Khách sạn giá rẻ với tiện ích tuyệt vời."
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -28,11 +28,11 @@ theme = "creative"
 
 	# Navigation
 	[params.navigation]
-		brand = "Mỹ văn hotel"
+		brand = "Khách sạn Mỹ Văn"
 
 		[params.navigation.links]
 			about     = "Giới thiệu"
-			services  = "Đặt phòng"
+			services  = "Giá phòng"
 			portfolio = "Thư viện ảnh"
 			contact   = "Liên hệ"
 
@@ -41,7 +41,7 @@ theme = "creative"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Khách sạn Mỹ Văn"
-		subtitle   = "Địa chỉ: blah blah blah blah Phường xxxx trung tâm Thành phố Vũng Tàu"
+		subtitle   = "L17 khu biệt thự Á Châu, đường Hoàng Hoa Thám, Phường 2, Thành phố Vũng Tàu"
    	buttonText = "Xem thêm"
 
 
@@ -100,4 +100,4 @@ theme = "creative"
 		description = "Nếu bạn có bất cứ câu hỏi nào về khách sạn chúng tôi về phòng ngủ, chế độ phục vụ, dịch vụ thì hãy liên hệ ngay với chúng tôi bằng thông tin dưới đây"
 		phone = "(+84) 121-4-857-794"
 		email = "khachsanmyvan@gmail.com"
-    address = "Thành phố Vũng Tàu"
+    	address = "L17 khu biệt thự Á Châu, Hoàng Hoa Thám, Phường 2, T.P Vũng Tàu"
