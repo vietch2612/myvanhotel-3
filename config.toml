@@ -1,6 +1,6 @@
 baseurl = "http://vietch2612.github.io/myvanhotel-3/"
 languageCode = "en-us"
-title = "My Van Hotel"
+title = "Khach san My Van"
 theme = "creative"
 
 [params]
@@ -19,8 +19,8 @@ theme = "creative"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Mỹ văn Hotel"
-	description = "Your description"
+	name = "My Van Hotel"
+	description = "Best cheap & good hote in Vung Tau"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -47,9 +47,9 @@ theme = "creative"
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
+		headline    = "we've got what you need!"
 		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		buttonText  = "Xem cách dịch vụ"
 
 
 	# Service section
@@ -79,10 +79,12 @@ theme = "creative"
 
     # Portfolio modals
 	[params.portfolio.modal]
+		modelID = 1
         client = "Client"
         date = "Date"
         category = "Category"
         buttonText = "Close"
+
 
     # Aside section
 	[params.aside]
@@ -98,3 +100,4 @@ theme = "creative"
 		description = "Nếu bạn có bất cứ câu hỏi nào về khách sạn chúng tôi về phòng ngủ, chế độ phục vụ, dịch vụ thì hãy liên hệ ngay với chúng tôi bằng thông tin dưới đây"
 		phone = "(+84) 121-4-857-794"
 		email = "khachsanmyvan@gmail.com"
+    address = "123123"
