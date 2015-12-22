@@ -1,6 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://vietch2612.github.io/myvanhotel-3"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "My Van Hotel"
 theme = "hugo-creative-theme"
 
 [params]
