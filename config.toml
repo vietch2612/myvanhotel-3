@@ -41,40 +41,40 @@ theme = "creative"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Khách sạn Mỹ Văn"
-		subtitle   = "Một khách sạn với đầy đủ tiện nghi, nằm ở trung tâm thành phố Vũng Tàu với mức giá hợp lý, thái độ phục vụ tận tình chắc chắn sẽ đêm đến cho bạn những trải nghiệm tốt nhất"
+		subtitle   = "Địa chỉ: blah blah blah blah Phường xxxx trung tâm Thành phố Vũng Tàu"
    	buttonText = "Xem thêm"
 
 
 	# About section
 	[params.about]
-		headline    = "we've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		headline    = "Giới thiệu về khách sạn Mỹ Văn"
+		description = "Khách sạn Mỹ Văn nằm ở .... với nhiều dịch vụ và trang bị hiện đại chắc chắn sẽ đem lại những trải nghiểm tốt nhất cho quý khách"
 		buttonText  = "Đặt phòng"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Tại sao lại chọn khách sạn Mỹ Văn?"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-singleroom"
+            title = "Phòng đơn"
+            description = "Giá một đêm là xxx"
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			icon = "fa-doubleroom"
+			title = "Phòng đôi +"
+			description = "Giá một đêm là xxx!"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            icon = "fa-car"
+            title = "Chỗ để xe hơi"
+            description = "Bạn đi xe hơi và lo lắng k có chỗ để, hãy yên tâm vì chúng tôi có chỗ để xe hơi cho bạn rồi."
 
         [[params.services.list]]
-            icon = "fa-heart"
-            title = "Phục vụ bằng trái tim"
-            description = "You have to make your websites with love these days!"
+            icon = "fa-smile-o"
+            title = "Thái độ phục vụ"
+            description = "Bạn sẽ nhận được những nụ cười thân thiện nhất từ khách sạn."
 
 
     # Portfolio modals
@@ -88,6 +88,7 @@ theme = "creative"
     # Aside section
 	[params.aside]
 		headline = "Đặt phòng ngay bây giờ để có phòng tốt nhất với mức giá tốt nhất"
+		# normalday = "Đơn: Standard 2PAX/Phòng, Chủ nhật đến T2 150.000VND đến 200.000VND"
 
 		[params.aside.button]
 			text = "Đặt phòng"
@@ -99,4 +100,4 @@ theme = "creative"
 		description = "Nếu bạn có bất cứ câu hỏi nào về khách sạn chúng tôi về phòng ngủ, chế độ phục vụ, dịch vụ thì hãy liên hệ ngay với chúng tôi bằng thông tin dưới đây"
 		phone = "(+84) 121-4-857-794"
 		email = "khachsanmyvan@gmail.com"
-    address = "123123"
+    address = "Thành phố Vũng Tàu"
