@@ -49,7 +49,7 @@ theme = "creative"
 	[params.about]
 		headline    = "Giới thiệu về khách sạn Mỹ Văn"
 		description = "MỸ VĂN HOTEL 7 tầng, gồm 18 phòng nghỉ, trong đó có 14phòng STANDAR ROOM ( 2 khách/ phòng) 4 phòng TWIN ROOM ( 4 khách/ phòng). Khách sạn có thang máy. Phục vụ 24/24. MỸ VĂN HOTEL nằm trong hẻm, hẻm kế bên quán cafe GARDEN, đặc biệt gần quán bánh khọt nổi tiếng Cây Vú Sữa, bánh khọt Cô Ba, cách bãi Thùy Vân 2km, cách chợ vũng Tàu, chợ xóm lưới bán hải sản tươi sống, bến xe khách Vũng Tàu (3 - 4 phút) chay xe máy. Cách trung tâm thành phố vũng tàu 5 phút xe máy."
-		buttonText  = "Đặt phòng"
+		buttonText = "Đặt phòng"
 
 
 	# Service section
@@ -92,7 +92,7 @@ theme = "creative"
 
 		[params.aside.button]
 			text = "Đặt phòng"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			link = "//www.agoda.com/my-van-hotel/hotel/vung-tau-vn.html"
 
 	# Contact section
 	[params.contact]
