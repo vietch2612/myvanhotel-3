@@ -59,12 +59,12 @@ theme = "creative"
         [[params.services.list]]
             icon = "fa-singleroom"
             title = "Standard room"
-            description = "2 Người lớn + 1 Em bé dưới 6 tuổi. \nGiá ngày thường CN đến T6 150.000VND - 200.000VND. \nThứ 7: 250.000"
+            description = "2 Người lớn + 1 Em bé dưới 6 tuổi. \nGiá ngày thường CN đến T6 200.000VND. \nThứ 7: 450.000VND - 700.000VND"
 
         [[params.services.list]]
 			icon = "fa-doubleroom"
 			title = "Twin room"
-			description = "4 Người. Giá ngày thường CN đến T6: 300.000VND. Thứ 7: 350.000VND - 400.000VND"
+			description = "4 Người. Giá ngày thường CN đến T6: 350.000VND - 400.000VND. Thứ 7: 800.000VND - 1.500.000VND"
 
 		[[params.services.list]]
             icon = "fa-car"
