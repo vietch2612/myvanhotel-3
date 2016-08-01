@@ -41,7 +41,7 @@ theme = "creative"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Khách sạn Mỹ Văn"
-		subtitle   = "L17 khu biệt thự Á Châu, đường Hoàng Hoa Thám, Phường 2, Thành phố Vũng Tàu"
+		subtitle   = "Đường Bàu Sen 4, Phường 2, Thành phố Vũng Tàu"
    	buttonText = "Xem thêm"
 
 
@@ -77,7 +77,7 @@ theme = "creative"
             description = "Bạn sẽ nhận được những nụ cười thân thiện nhất từ khách sạn."
 
 
-    # Portfolio modals
+  # Portfolio modals
 	[params.portfolio.modal]
         client = "Client"
         date = "Date"
@@ -98,6 +98,6 @@ theme = "creative"
 	[params.contact]
 		headline = "Liên hệ với chúng tôi ngay"
 		description = "Nếu bạn có bất cứ câu hỏi nào về khách sạn chúng tôi về phòng ngủ, chế độ phục vụ, dịch vụ thì hãy liên hệ ngay với chúng tôi bằng thông tin dưới đây"
-		phone = "(+84) 121-4-857-794"
+		phone = "(+84) 1214 857 794"
 		email = "khachsanmyvan@gmail.com"
-    	address = "L17 khu biệt thự Á Châu, Hoàng Hoa Thám, Phường 2, T.P Vũng Tàu"
+  	address = "Đường Bàu Sen 4, Phường 2, T.P Vũng Tàu"
